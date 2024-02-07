@@ -248,7 +248,7 @@ hr.new1{
 }
 
 .line1{
-	background: linear-gradient(-45deg,  #020303, #db633f, #c91b5e, #1d9dcc, #18d4a8, #020303);
+	background: linear-gradient(-45deg,  #020303, #db633f, #db783f, #020303);
 	background-size: 400% 400%;
 	animation: gradient 6s ease infinite;
 	height: 2px;
